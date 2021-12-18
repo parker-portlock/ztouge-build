@@ -6,7 +6,8 @@ Build Specs for my 370Z
     Z1 Ported Upper Intake Manifold
     Motordyne Shockwave Cat-Back Exhaust
     Z1 High Flow Catalysts
-    ECUtek Tune
+    InjectorDynamics ID1050x Injectors
+    ECUtek Tune (Flex-Fuel In progress)
     Action Clutch Stage 3-1MS 6-Puck Racing Clutch
     ACR Chromoly Lightweight Flywheel
     Zspeed CMAK
@@ -17,6 +18,9 @@ Build Specs for my 370Z
     SPL Solid Differential Bushings
     Z1 Rear Subframe collars
     Setrab 34 Row Oil Cooler
+    Revel Oil Pressure sensor
+    GM Flex Fuel Sensor & Zeitronix ECA-2
+    OEM Denso Iridium Spark Plugs
 
 ## Suspension/Chassis
     Meister R Zeta CRD Coilovers
@@ -45,7 +49,7 @@ Build Specs for my 370Z
     Planted Technologies Seat Brackets
     Kenwood Excelon DDX9905S Head Unit
     Kenwood DRV-N520 Dash Cam
-    Haltech IC-7 Dash (in progress)
+    Haltech iC-7 Dash
     
 ## Fluids
     Engine: 5W30 Red Line Motor Oil
