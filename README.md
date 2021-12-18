@@ -39,6 +39,7 @@ Build Specs for my 370Z
 
 ## Exterior/Aero
     Stillen Front Fascia
+    Lasfit D2S LED Headlight Conversion
     VIS AMS Style Vented Carbon Hood
     Verus Engineering Rear Diffuser
     Aeromotions R-Static Wing
