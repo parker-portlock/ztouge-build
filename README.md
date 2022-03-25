@@ -7,7 +7,7 @@ Build Specs for my 370Z
     Motordyne Shockwave Cat-Back Exhaust
     Z1 High Flow Catalysts
     InjectorDynamics ID1050x Injectors
-    ECUtek Tune (Flex-Fuel In progress)
+    ECUtek Tune by Specialty-Z (Flex-Fuel In progress)
     Action Clutch Stage 3-1MS 6-Puck Racing Clutch
     ACR Chromoly Lightweight Flywheel
     Zspeed CMAK
@@ -51,6 +51,9 @@ Build Specs for my 370Z
     Kenwood Excelon DDX9905S Head Unit
     Kenwood DRV-N520 Dash Cam
     Haltech iC-7 Dash
+    WeatherTech Floormats with Custom Badging from WCLathewerks
+    Raceseng Stratose Alcantara Shift Knob with Collar
+    Sparco R383 Suede Steering Wheel
     
 ## Fluids
     Engine: 5W30 Red Line Motor Oil
