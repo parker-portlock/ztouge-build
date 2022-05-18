@@ -38,7 +38,7 @@ Build Specs for my 370Z
     Polyurethane Exhaust Bushings
 
 ## Exterior/Aero
-    Stillen Front Fascia
+    Top Secret Carbon front Lip
     Lasfit D2S LED Headlight Conversion
     VIS AMS Style Vented Carbon Hood
     Verus Engineering Rear Diffuser
