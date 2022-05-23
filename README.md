@@ -7,7 +7,8 @@ Build Specs for my 370Z
     Motordyne Shockwave Cat-Back Exhaust
     Z1 High Flow Catalysts
     InjectorDynamics ID1050x Injectors
-    ECUtek Tune by Specialty-Z (Flex-Fuel In progress)
+    ECUtek Tune by Specialty-Z Flex-Fuel Enabled
+    AEM 340lph Fuel Pump
     Action Clutch Stage 3-1MS 6-Puck Racing Clutch
     ACR Chromoly Lightweight Flywheel
     Zspeed CMAK
