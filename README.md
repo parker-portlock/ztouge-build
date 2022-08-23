@@ -45,13 +45,14 @@ Build Specs for my 370Z
     VIS AMS Style Vented Carbon Hood
     Verus Engineering Rear Diffuser
     Aeromotions R-Static Wing
+    Shine Auto Side and Rear Carbon Skirts (Sunline Racing Style)
     Cut Rear Bumper
 
 ## Interior
     Braum Elite Series Leatherette Seats (Black)
     Planted Technologies Seat Brackets
     Kenwood Excelon DDX9905S Head Unit
-    Kenwood DRV-N520 Dash Cam
+    Viofo A129 Pro Duo Front and Rear Dash Cam
     Haltech iC-7 Dash
     WeatherTech Floormats with Custom Badging from WCLathewerks
     Raceseng Stratose Alcantara Shift Knob with Collar
