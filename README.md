@@ -42,7 +42,7 @@ Build Specs for my 370Z
     Top Secret Carbon front Lip
     Lasfit D2S LED Headlight Conversion
     Diode Dynamics SSC2 SAE Driving Lights
-    VIS AMS Style Vented Carbon Hood
+    Trackspec Motorsports Center Hood Vents
     Verus Engineering Rear Diffuser
     Aeromotions R-Static Wing
     Shine Auto Side and Rear Carbon Skirts (Sunline Racing Style)
