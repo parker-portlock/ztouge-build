@@ -5,8 +5,8 @@ Build Specs for my 370Z
     Z1 Cold Air Intake System (gold wrapped)
     Z1 Ported Upper Intake Manifold
     Motordyne Shockwave Cat-Back Exhaust
-    Z1 High Flow Catalysts
-    InjectorDynamics ID1050x Injectors
+    Motordyne Long Tube Headers w/High Flow Catalysts
+    Injector Dynamics ID1050x Injectors
     ECUtek Tune by Specialty-Z Flex-Fuel Enabled
     AEM 340lph Fuel Pump
     Action Clutch Stage 3-1MS 6-Puck Racing Clutch
