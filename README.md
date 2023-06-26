@@ -30,7 +30,8 @@ Build Specs for my 370Z
     SPL Rear Camber Arms
     Z1 front upper control arms
     Z1 F&R slotted 2-piece rotors
-    Stoptech Sport brake pads (Street)
+    Z1 Forged Street Brake Calipers
+    Z1 Ceramic Street brake pads (Street)
     Carbotech XP12F/XP10R brake pads (Track)
     Z1 Stainless Steel Brake Lines
     Z1 Master cylinder brace
@@ -63,5 +64,5 @@ Build Specs for my 370Z
     Transmission: MT-85 Red Line Gear Oil
     Differential: 75W90 Red Line Differential Oil
     Power Steering: Red Line D4 ATF
-    Brakes: Motul RBF 660
+    Brakes: Motul 5.1
     Clutch: Motul RBF 600
