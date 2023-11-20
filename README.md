@@ -35,9 +35,13 @@ Build Specs for my 370Z
     Carbotech XP12F/XP10R brake pads (Track)
     Z1 Stainless Steel Brake Lines
     Z1 Master cylinder brace
+    Polyurethane Exhaust Bushings
+### Summer Wheel Setup
     Forgestar CF10 F:19x9.5 +22 | R:19x11 +22
     Michelin Pilot Sport 4S F265/35R19 | R305/30R19
-    Polyurethane Exhaust Bushings
+### Winter Wheel Setup
+    Yokohama ADVAN RSIII F:18x9.5 +38 | R:18x9.5 +38 (20mm Spacer)
+    Yokohama ADVAN Sport A/S+ 265/40R18
 
 ## Exterior/Aero
     Top Secret Carbon front Lip
@@ -56,13 +60,13 @@ Build Specs for my 370Z
     Viofo A129 Pro Duo Front and Rear Dash Cam
     Haltech iC-7 Dash
     WeatherTech Floormats with Custom Badging from WCLathewerks
-    Raceseng Stratose Alcantara Shift Knob with Collar
+    MCR (Matchless Crowd Racing) Shift Knob
     Sparco R383 Suede Steering Wheel
     
 ## Fluids
     Engine: 5W30 Red Line Motor Oil
     Transmission: MT-85 Red Line Gear Oil
     Differential: 75W90 Red Line Differential Oil
-    Power Steering: Red Line D4 ATF
+    Power Steering: Red Line D6 ATF
     Brakes: Motul 5.1
     Clutch: Motul RBF 600
