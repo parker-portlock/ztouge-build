@@ -36,17 +36,18 @@ Build Specs for my 370Z
     Z1 Stainless Steel Brake Lines
     Z1 Master cylinder brace
     Polyurethane Exhaust Bushings
+    Z1 Front Strut Brace
 ### Summer Wheel Setup
     Forgestar CF10 F:19x9.5 +22 | R:19x11 +22
-    Michelin Pilot Sport 4S F265/35R19 | R305/30R19
+    Bridgestone Potenza Sport F245/40R19 | R285/35R19
 ### Winter Wheel Setup
     Yokohama ADVAN RSIII F:18x9.5 +38 | R:18x9.5 +38 (20mm Spacer)
     Yokohama ADVAN Sport A/S+ 265/40R18
 
 ## Exterior/Aero
     Top Secret Carbon front Lip
-    Lasfit D2S LED Headlight Conversion
-    Diode Dynamics SSC2 SAE Driving Lights
+    Morimoto LED Headlamps
+    Diode Dynamics SSC2 SAE Fog Lights
     Trackspec Motorsports Center Hood Vents
     Verus Engineering Rear Diffuser
     Aeromotions R-Static Wing
