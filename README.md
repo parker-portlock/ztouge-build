@@ -55,7 +55,7 @@ Build Specs for my 370Z
     Cut Rear Bumper
 
 ## Interior
-    Braum Elite Series Leatherette Seats (Black)
+    ~~Braum Elite Series Leatherette Seats (Black)~~ Using Stock Seats for Interim
     Planted Technologies Seat Brackets
     Kenwood Excelon DDX9905S Head Unit
     Viofo A129 Pro Duo Front and Rear Dash Cam
@@ -63,9 +63,10 @@ Build Specs for my 370Z
     WeatherTech Floormats with Custom Badging from WCLathewerks
     MCR (Matchless Crowd Racing) Shift Knob
     Sparco R383 Suede Steering Wheel
+    Opentop GT3 Door Handles (Incoming)
     
 ## Fluids
-    Engine: 5W30 Red Line Motor Oil
+    Engine: Motul 8100 POWER 5w30
     Transmission: MT-85 Red Line Gear Oil
     Differential: 75W90 Red Line Differential Oil
     Power Steering: Red Line D6 ATF
